@@ -21,7 +21,7 @@ The system also provides an interactive dashboard for exploring the dataset, vis
 
 
 
-## Technologies Used
+## Tools Used
 - **Python**
 - **Streamlit**
 - **Pandas**
